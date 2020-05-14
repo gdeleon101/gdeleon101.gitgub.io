@@ -1,6 +1,6 @@
 [
   {"name":"title","title":"Title"},
-  {"name":"description","title":"Description","breakpoints":"xs sm","style":{"maxWidth":200,"overflow":"hidden","textOverflow":"ellipsis","wordBreak":"keep-all","whiteSpace":"nowrap"}},
-  {"name":"providers","title":"Providers"},
-  {"name":"industry","title":"Industry"}
+  {"name":"description","title":"Description","breakpoints":"xs sm","style":{"maxWidth":200}},
+  {"name":"providers","title":"Providers","breakpoints":"xs sm"},
+  {"name":"industry","title":"Industry","breakpoints":"xs sm"}
 ]
