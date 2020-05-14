@@ -3,102 +3,102 @@
    "title": "Accounting - Bookkeeping, Accounting & Auditing Clerks",
    "description": "Successful completion of this level 1 training results in an Occupational Skills Award in accounting. Students can also complete professional bookkeeper certificate or advance to AAS.",
    "providers": "COM",
-   "industry": "PROFESSIONAL, BUSINESS & TECHNICAL SERVICES"
+   "industry": "Professional, Business & Technical Services"
  },
  {
    "title": "Sales Representatives, Services, All Other",
    "description": "Marketing will prepare the student with basic marketing skills and strategies. The 1 year marketing certificate and 2 year AAS in business with an emphasis in marketing allow students to specialize with courses in customer relations, sales, marketing and e-commerce.",
-   "providers": "COM                                                HCDE",
-   "industry": "PROFESSIONAL, BUSINESS & TECHNICAL SERVICES"
+   "providers": "COM, HCDE",
+   "industry": "Professional, Business & Technical Services"
  },
  {
    "title": "Customer Service Representatives ",
    "description": "Marketing will prepare the student with basic marketing skills and strategies. The 1 year marketing certificate and 2 year AAS in business with an emphasis in marketing allow students to specialize with courses in customer relations, sales, marketing and e-commerce.",
-   "providers": "COM                                                HCDE",
-   "industry": "PROFESSIONAL, BUSINESS & TECHNICAL SERVICES"
+   "providers": "COM, HCDE",
+   "industry": "Professional, Business & Technical Services"
  },
  {
    "title": "Legal Secretaries",
    "description": "This level 1 certificate prepares students for entry level legal positions (legal secretary) while completing coursework that can be applied toward an AAS in Paralegal Studies.",
-   "providers": "HCC                                                     Wharton",
-   "industry": "PROFESSIONAL, BUSINESS & TECHNICAL SERVICES"
+   "providers": "HCC, Wharton",
+   "industry": "Professional, Business & Technical Services"
  },
  {
    "title": "Receptionists & Information Clerks",
    "description": "Students complete a one year Administrative Assistant certificate and can advance to complete a two-year AAS in Business Office Technology. The certificate covers Quickbooks, Microsoft Word and Excel in depth and intro to Microsoft Access.",
-   "providers": "HCDE                                          Wharton",
-   "industry": "PROFESSIONAL, BUSINESS & TECHNICAL SERVICES"
+   "providers": "HCDE, Wharton",
+   "industry": "Professional, Business & Technical Services"
  },
  {
    "title": "Networking - Computer Network Support Specialist",
    "description": "Level 1 Certificate in Networking Fundamentals/Network Support Technician. After completion, students can enter the workforce as computer support specialists or continue onto AAS degree programs in Network Administration.",
-   "providers": "COM                                      Wharton",
-   "industry": "PROFESSIONAL, BUSINESS & TECHNICAL SERVICES"
+   "providers": "COM, Wharton",
+   "industry": "Professional, Business & Technical Services"
  },
  {
    "title": "Programming - Computer Network Support Specialist",
    "description": "Level 1 programming certificate. 28 credit hours, including intro to database and Microsoft Certified Professional. Courses can be applied to associates in computer science.",
-   "providers": "COM                                            Wharton",
-   "industry": "PROFESSIONAL, BUSINESS & TECHNICAL SERVICES"
+   "providers": "COM, Wharton",
+   "industry": "Professional, Business & Technical Services"
  },
  {
    "title": "Welding - Welders, Cutters, Solderers & Brazers",
    "description": "One year course leads to national NCCER Level 1 certification.",
-   "providers": "Baker Ripley                           COM                                 LSC                                   HCC                             HCDE                            SJC                              Wharton",
-   "industry": "CONSTRUCTION"
+   "providers": "Baker Ripley, COM, LSC, HCC, HCDE, SJC, Wharton",
+   "industry": "Construction"
  },
  {
    "title": "Helpers--Pipelayers, Plumbers, Pipefitters, Steamfitters",
    "description": "This training prepares students for Level 1 NCEER Pipefitter certification.",
-   "providers": "Baker Ripley                              Brazosport                           LSC                        HCC                            HCDE                        SJC    ",
-   "industry": "CONSTRUCTION"
+   "providers": "Baker Ripley, Brazosport, LSC, HCC, HCDE, SJC",
+   "industry": "Construction"
  },
  {
    "title": "HVAC Helper",
    "description": "Level 1 HVAC program is stackable and can be applied toward HVAC & Refrigeration AAS. Upon completion students receive Occupational Skills Award, OSHA 10 card and EPA credentials",
-   "providers": "Lone Star                 COM                      HCC                      Alliance             Wharton           HCDE",
-   "industry": "CONSTRUCTION"
+   "providers": "Lone Star, COM, HCC, Alliance, Wharton, HCDE",
+   "industry": "Construction"
  },
  {
    "title": "Helpers, electricians",
    "description": "A program that prepares individuals for a career in the electrical trades. Student complete the NCCER Level 1 Certificate (185 hours or 9 credit hours, including Core Curriculum)",
-   "providers": "Brazosport                   HCDE                    San Jacinto                   Baker Ripley                    Alliance",
-   "industry": "CONSTRUCTION"
+   "providers": "Brazosport, HCDE, San Jacinto, Baker Ripley, Alliance",
+   "industry": "Construction"
  },
  {
    "title": "Industrial Maintenance - Industrial Engineering Technicians",
    "description": "Level 1 for-credit course. Construction pathway and NCCER Industrial Maintenance certification",
    "providers": "San Jacinto",
-   "industry": "CONSTRUCTION"
+   "industry": "Construction"
  },
  {
    "title": "Millwright - Millwrights",
    "description": "JumpStart program is a nine week training program for entry-level certifications in the millwright field. Successful completers will earn 9 college credit hours, an Occupational Skills Award, an NCCER Blue Card - Core Curriculum Certification, an NCCER Level 1 Craft Certification and a TWIC card. Participants receive employment coaching and attend a job fair with interviews by local employers.",
    "providers": "Brazosport",
-   "industry": "CONSTRUCTION"
+   "industry": "Construction"
  },
  {
    "title": "Occupational Health and Safety Technician - Occupational Health and Safety Technicians",
    "description": "One year OSHT certificate or AAS OSHT degree. Students learn to manage safety and health programs, perform safety inspections and audits, develop safety controls, and ensure compliance with the OSHA standards and regulations.",
    "providers": "COM",
-   "industry": "CONSTRUCTION"
+   "industry": "Construction"
  },
  {
    "title": "Electrical and Electronics Drafters",
    "description": "Level 1 Certificate - includes various options, including 11 unit occupational skills award in CAD drafting and 38 unit industrial drafting.",
-   "providers": "COM                           Alliance",
-   "industry": "CONSTRUCTION"
+   "providers": "COM, Alliance",
+   "industry": "Construction"
  },
  {
    "title": "Mechanical Drafters",
    "description": "Level 1 Certificate - includes various options, including 11 unit occupational skills award in CAD drafting and 38 unit industrial drafting.",
-   "providers": "COM                           Alliance",
-   "industry": "CONSTRUCTION"
+   "providers": "COM, Alliance",
+   "industry": "Construction"
  },
  {
    "title": "Early Childhood - Childcare Workers",
    "description": "This course of study is designed to prepare students for a career in early childhood/child development instruction or administration.",
-   "providers": "Wharton               HCDE",
+   "providers": "Wharton, HCDE",
    "industry": "EDUCATION"
  },
  {
@@ -110,91 +110,91 @@
  {
    "title": "Medical Assistant - Medical Assistants",
    "description": "Level 1/CE certificate. Students can take NHA's Certified Clinial Medical Assistant certificate exam",
-   "providers": "COM                     Wharton                     Brazosport                   HCDE",
-   "industry": "HEALTHCARE"
+   "providers": "COM, Wharton, Brazosport, HCDE",
+   "industry": "Healthcare"
  },
  {
    "title": "Patient Care Tech - Nursing Assistants",
    "description": "Patient Care Technicians work under the supervision of a physician or registered nurse to provide patient support and includes three separate certifications including EKG technician (264 hrs.), phlebotomy (200 hrs.) and Certified Nurse Assistant (100 hrs.)",
    "providers": "HCDE, HCC",
-   "industry": "HEALTHCARE"
+   "industry": "Healthcare"
  },
  {
    "title": "Home Health Aides",
    "description": "Course leads to a state certification. After completion, students can move onto higher level allied health courses which include high skill high growth occupations (LVN, Radiolodic tech, etc)",
-   "providers": "Alliance                             CCC                     COM                         HCC                          HCDE                           Lone Star                  San Jacinto                      Wharton",
-   "industry": "HEALTHCARE"
+   "providers": "Alliance, CCC, COM, HCC, HCDE, Lone Star, San Jacinto, Wharton",
+   "industry": "Healthcare"
  },
  {
    "title": "Phlebotomy - Phlebotomists",
    "description": "Training prepares student to draw blood from a patient for clinical or medical testing (200 hrs.) and leads to a national industry certification",
-   "providers": "Alliance                       Brazosport                      COM                          HCDE                    San Jacinto                 Wharton ",
-   "industry": "HEALTHCARE"
+   "providers": "Alliance, Brazosport, COM, HCDE, San Jacinto, Wharton ",
+   "industry": "Healthcare"
  },
  {
    "title": "EKG Technician - Cardiovascular Technologist & Technicians",
    "description": "Training prepares student to monitor and evaluate heart rhythms in preparation for national EKG certification exam (264 hours)",
-   "providers": "Alliance                           COM                         HCDE                          San Jacinto",
-   "industry": "HEALTHCARE"
+   "providers": "Alliance, COM, HCDE, San Jacinto",
+   "industry": "Healthcare"
  },
  {
    "title": "Pharmacy Tech - Pharmacy Technicians",
    "description": "Continuing education courses leading to one year pharmacy tech credit certificate. After completion, individuals are prepared for national Pharmacy Tech certification exam and can enter workforce or continue to an AAS",
-   "providers": "COM                        Wharton",
-   "industry": "HEALTHCARE"
+   "providers": "COM, Wharton",
+   "industry": "Healthcare"
  },
  {
    "title": "Dental Assistant - Dental Assistants",
    "description": "Continuing education courses leading to state certification (Texas Registered Dental Assistant Exam). Graduates can also move onto credit courses and complete AAS to be dental hygienist.",
-   "providers": "COM                    Lone Star",
-   "industry": "HEALTHCARE"
+   "providers": "COM, Lone Star",
+   "industry": "Healthcare"
  },
  {
    "title": "Medical Office Insurance Aide - Medical Assistants",
-   "description": "Continuing education courses leading to local occupational skill award. Students are prepared for administrative positions in healthcare or can transition into medical coding program. Especially useful for students to qualify for Ability to Benefit",
-   "providers": "COM                           HCDE",
-   "industry": "HEALTHCARE"
+   "description": "Continuing education courses leading to local occupational skill award. Students are prepared for administrative positions in Healthcare or can transition into medical coding program. Especially useful for students to qualify for Ability to Benefit",
+   "providers": "COM, HCDE",
+   "industry": "Healthcare"
  },
  {
    "title": "Health Information Management (Medical Coding) - Medical Records & Helath Information Technician",
    "description": "Medical coding certificate is a year and a half level 2 certificate that can translate into a 2 year AAS in Health Info Management. Upon completion, students sit for the national certification exam.",
-   "providers": "COM                 Wharton                    HCDE",
-   "industry": "HEALTHCARE"
+   "providers": "COM, Wharton, HCDE",
+   "industry": "Healthcare"
  },
  {
    "title": "Petroleum Pump System Ops., Refinery Ops., & Gaugers",
    "description": "Petroleum field service technician level 1 certificate can be stacked and applied to an AAS degree or a Level 2 certificate.",
    "providers": "Lone Star",
-   "industry": "OIL & GAS & RELATED MANUFACTURING"
+   "industry": "Oil & Gas & Related Manufacturing"
  },
  {
    "title": "Process Technology - Chemical Equipment Operators & Tenders",
    "description": "The program in Process Technology is designed to prepare students for advanced technology in the area of process operations at petrochemical, refining companies and other industries. The end certificate is an Associate of Applied Science. This IET can lead into employment in Operating Eng. & Other Construction Equipment Operators listed on the High Skill/High Growth list",
    "providers": "Wharton",
-   "industry": "OIL & GAS & RELATED MANUFACTURING"
+   "industry": "Oil & Gas & Related Manufacturing"
  },
  {
    "title": "Industrial Machinery Mechanics - Industrial Machinery Mechanics",
    "description": "Continuing education courses leading to local occupational skill award in mechanical/industrustrial maintenance. WCJC - certificate in manufacturing technology, can lead to AAS.",
-   "providers": "COM                       Lone Star                     Wharton",
-   "industry": "OIL & GAS & RELATED MANUFACTURING"
+   "providers": "COM, Lone Star, Wharton",
+   "industry": "Oil & Gas & Related Manufacturing"
  },
  {
    "title": "Machinists - Machinists",
    "description": "This program is designed to meet the industry's continued and growing need for trained machine operators and programmers. It prepares students for employment in machine shops, manufacturing facilities and in the maintenance of industrial plants.",
-   "providers": "HCC                              Lone Star",
-   "industry": "OIL & GAS & RELATED MANUFACTURING"
+   "providers": "HCC, Lone Star",
+   "industry": "Oil & Gas & Related Manufacturing"
  },
  {
    "title": "Automotive Technician - Auto Service Technicians & Mechanics",
    "description": "Automotive tech training prepares technicians to troubleshoot complex issues and make repairs. Employment opportunities include repair technician, service writer, service manager, shop foreman, and business owner",
-   "providers": "HCC                         Wharton",
-   "industry": "TRANSPORTATION"
+   "providers": "HCC, Wharton",
+   "industry": "Transportation"
  },
  {
    "title": "Water Treatment Operator",
    "description": "Water Program Class D. upon completion of IET, students can take licensing exam and be eligible for employment as Water/Wastewater operator. Class D Water Operator - 20 hours basic waterworks operation. Content and curriculum approved by TCEQ. Class D Wastewater Treatment Operator - 20 hours of basic wastewater operations. 33 local employers have hiring needs in this area.",
-   "providers": "HCC                         Wharton",
-   "industry": "OTHER OCCUPATIONS"
+   "providers": "HCC, Wharton",
+   "industry": "Other Occupations"
  }
 ]
